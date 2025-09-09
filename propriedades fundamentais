@@ -2,3 +2,12 @@
 
 Todo grid é composto de 2 principais grupos:
 `Container: o pai` e `Itens: o(s) filhos`
+
+
+### CONTAINER (PAI)
+
+- display: grid;
+- gird-template;
+ - grid-template-columns;
+ - grid-template-rows;
+ - grid-template-areas;
