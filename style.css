@@ -1,8 +1,7 @@
 #app {
     display: grid;
-    grid-template-columns: 1fr 3fr 1fr; /*1fr 1fr 1fr são frações flexiveis. pode usar assim também.*/
-    /*repeat(3, 1fr) serve para repedir 3x a coluna de 1fr
-    se não tiver espaço ele joga para baixo de forma resposiva*/
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
 }
 
 #app > div {
