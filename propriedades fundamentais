@@ -1,0 +1,4 @@
+## PROPRIEDADES FUNDAMENTAIS
+
+Todo grid é composto de 2 principais grupos:
+`Container: o pai` e `Itens: o(s) filhos`
